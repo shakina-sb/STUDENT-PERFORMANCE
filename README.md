@@ -42,12 +42,11 @@ Student marks data is collected and stored in a structured format such as CSV or
 Step 2: Data Cleaning
 The dataset is checked for:
 
-Step 3: Data processing
 Missing values
 Duplicate entries
 Incorrect data formats
 
-Step 4:performance Analytics
+Step 3:Data Processing
 The project calculates:
 
 Total marks
@@ -55,22 +54,23 @@ Average marks
 Percentage scores
 Grades
 Pass/Fail status
+
 Step 4: Performance Analysis
 The system identifies:
 
-Step 5: Data Visualization
 Top-performing students
 Weak-performing students
 Highest scoring subjects
 Lowest scoring subjects
+
 Step 5: Data Visualization
 Different charts are created to represent:
 
-Step 6: Result Interpretation
 Student performance distribution
 Subject-wise averages
 Grade distribution
 Pass vs Fail comparison
+
 Step 6: Result Interpretation
 Insights are generated to support academic decision-making and performance improvement strategies.
 
