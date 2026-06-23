@@ -23,15 +23,16 @@ Create charts and dashboards for visual analysis.
  
 The dataset contains student academic records, including:
 
-Roll No
-Student Name
-Age
-Gender
-Class
-Subject Marks
-Total Marks
-Grade
+Roll No,
+Student Name,
+Age,
+Gender,
+Class,
+Subject Marks,
+Total Marks,
+Grade,
 Result
+
 The data is processed and analyzed to generate meaningful educational insights.
 
 Project Workflow
@@ -42,33 +43,33 @@ Student marks data is collected and stored in a structured format such as CSV or
 Step 2: Data Cleaning
 The dataset is checked for:
 
-Missing values
-Duplicate entries
+Missing values,
+Duplicate entries,
 Incorrect data formats
 
 Step 3:Data Processing
 The project calculates:
 
-Total marks
-Average marks
-Percentage scores
-Grades
+Total marks,
+Average marks,
+Percentage scores,
+Grades,
 Pass/Fail status
 
 Step 4: Performance Analysis
 The system identifies:
 
-Top-performing students
-Weak-performing students
-Highest scoring subjects
+Top-performing students,
+Weak-performing students,
+Highest scoring subjects,
 Lowest scoring subjects
 
 Step 5: Data Visualization
 Different charts are created to represent:
 
-Student performance distribution
-Subject-wise averages
-Grade distribution
+Student performance distribution,
+Subject-wise averages,
+Grade distribution,
 Pass vs Fail comparison
 
 Step 6: Result Interpretation
