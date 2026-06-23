@@ -38,9 +38,11 @@ The data is processed and analyzed to generate meaningful educational insights.
 Project Workflow
 
 Step 1: Data Collection
+
 Student marks data is collected and stored in a structured format such as CSV or Excel.
 
 Step 2: Data Cleaning
+
 The dataset is checked for:
 
 Missing values,
@@ -48,6 +50,7 @@ Duplicate entries,
 Incorrect data formats
 
 Step 3:Data Processing
+
 The project calculates:
 
 Total marks,
@@ -57,6 +60,7 @@ Grades,
 Pass/Fail status
 
 Step 4: Performance Analysis
+
 The system identifies:
 
 Top-performing students,
@@ -65,6 +69,7 @@ Highest scoring subjects,
 Lowest scoring subjects
 
 Step 5: Data Visualization
+
 Different charts are created to represent:
 
 Student performance distribution,
@@ -73,6 +78,7 @@ Grade distribution,
 Pass vs Fail comparison
 
 Step 6: Result Interpretation
+
 Insights are generated to support academic decision-making and performance improvement strategies.
 
 Features
